@@ -1,0 +1,43 @@
+The following is the number of each type of underground resource tile contained in the set of 91:
+
+5	Nothing
+
+13	1 Corruption
+2	2 Corruption
+
+4	1 Card
+1	2 Cards
+
+2	1 M€ production per Temperature increase
+
+2	2 Steel and 1 Plant
+4	1 Steel production
+3	2 Steel per Temperature increase
+
+3	1 Titanium and 1 Plant
+3	2 Titanium
+1	1 Titanium production
+3	1 Titanium per Temperature increase
+
+4	2 Plants
+1	3 Plants
+4	1 Plant production
+3	2 Plants per Temperature increase
+
+2	2 Energy
+5	1 Energy production
+3	2 Heat production
+
+4	2 Microbes
+1	2 Microbes per Temperature increase
+
+2	1 Terraform Rating
+2	Ocean
+2	Science tag
+2	Plant tag
+2	Space modifier: Volcanic + Ocean
+2	Placement modifier: +6 M€ for placing a tile
+
+2	Requirements modifier: Ocean
+2	Requirements modifier: Oxygen
+2	Requirements modifier: Temperature
